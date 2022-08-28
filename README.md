@@ -1,0 +1,1 @@
+# SocialSharing-PhoneGap-Plugin-1
